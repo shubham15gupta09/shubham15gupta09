@@ -19,3 +19,12 @@
 <a href="mailto:shubham15gupta09@gmail.com">
   <img align="left" alt="Shubham's Gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+
+<br/>
+
+<a href="https://github.com/shubham15gupta09">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham15gupta09&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/shubham15gupta09">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham15gupta09&show_icons=true&theme=light&line_height=27" alt="Shubham's github stats"/>
+</a>
