@@ -8,14 +8,14 @@
 - 💬 Ask me about <b>Web Developement , Machine Learning and Cloud Deployments</b>
 - 📫 How to reach me:
 <a href="https://twitter.com/shubham15gupta0">
-  <img align="left" alt="Shubham's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Shubham's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/shubham15gupta09">
-  <img align="left" alt="Shubham's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Shubham's Linkdein" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/shubham15gupta09">
-  <img align="left" alt="Shubham's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Shubham's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="mailto:shubham15gupta09@gmail.com">
-  <img align="left" alt="Shubham's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Shubham's Gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
