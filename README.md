@@ -23,8 +23,5 @@
 <br/>
 
 <a href="https://github.com/shubham15gupta09">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham15gupta09&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/shubham15gupta09">
  <img  src="https://github-readme-stats.vercel.app/api?username=shubham15gupta09&show_icons=true&theme=light&line_height=22" alt="Shubham's github stats"/>
 </a>
