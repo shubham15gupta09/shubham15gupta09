@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham15gupta09&label=Views&color=blue&style=plastic" alt="shubham15gupta09" /> </p>
 
 <br>
-<br>
 
 - 🔭 I’m currently working on <b>MERN Stack</b> 
 - 🌱 I’m currently learning <b>React</b> and <b>Javascript</b>
